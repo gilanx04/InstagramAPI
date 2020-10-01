@@ -4,7 +4,7 @@ import time, random
 # token = {'action': 'login', 'status': 'success', 'username': 'corrykalam', 'csrftoken': 'asdasfwjelkfwfw', 'sessionid': 'xjkcdjksxkdlsldsd'}
 # get your token use function logIn()
 # leertsefani = InstagramApi(session=token)
-
+#lagi ada event pull request nih :(
 
 #login by user & password
 leertsefani = InstagramApi("USERNAME", "PASSWORD")
